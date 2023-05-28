@@ -27,3 +27,5 @@ Este script é útil para automatizar o processo de cadastro de itens em um sist
    8. Finalizar o cadastro: Após o cadastro, o script aguarda a exibição de uma janela popup de confirmação e a fecha clicando no botão correspondente.
 
 Encerramento do script: Após o loop de cadastro, o script exibe uma mensagem de "Finalizado" e aguarda por 3 segundos antes de encerrar o webdriver e fechar o navegador.
+
+https://github.com/jr-roberto/bot-cadastrador_de_itens/assets/91014834/cec1e8ad-84df-4fac-b4e2-0befc627aa54
